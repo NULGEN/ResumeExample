@@ -1,5 +1,5 @@
 # ResumeExample
-##HTML_CSS Uygulamasi
+## HTML_CSS Uygulamasi
 
 Örnek bir pdf resume dosyasından html sayfası oluşturuldu.
 
